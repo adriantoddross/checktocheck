@@ -1,6 +1,16 @@
 # Check To Check
 [Most Americans live paycheck to paycheck](https://www.cnbc.com/2017/08/24/most-americans-live-paycheck-to-paycheck.html) and struggle to make ends meet. I am developing Check to Check as a personal finance web application that teaches financial literacy, starting with the basics: surviving from paycheck to paycheck. 
 
+## MVP Goals (version 1)
+- Users can register and log-in (and a demo account!)
+- Users can add their gross income
+- Users can add bill with amount, due date, recurrence, priority, and category
+- Categories will include: Food, Mortgage/Rent, Debt, Auto & Transport, Bills & Utilities, Travel, Kids, Shopping, Personal, Misc, Savings
+- With recurrence, a user should be able to see their next projected due date
+- Users can see their projected net income and outgo
+- Users can get a report that shows percentage of money spent by category
+- Users can mark a bill as paid
+
 ## Goals for this Project (these are subject to change!)
 - Practice SCRUM development patterns w/ frequent sprints (so as long as I remain unemployed); in place of stand-ups, document the experience in a thread on Twitter
 - Test driven development for the back-end with Mocha and Chai
@@ -22,9 +32,6 @@ As a user:
 - (Optional) At the end of each month, I can recount my actual spending and review my budget for the next month
 - Based on my bills and spending habits, I can get suggestions on how to save money and how to budget my income
 - I can learn about techniques and sacrifices needed to attain a debt-free lifestyle
-
-## MVP Goals
-- Coming soon!
 
 ### About The Idea
 I've always felt like budgeting apps were never meant for poor people, or people that literally live from paycheck to paycheck. Instead, they just offer you an alternative of being able to look at pretty UI and see your account balances without logging into your bank's website or app. Instead of encouraging and teaching solid financial advice that is reproducible and has a proven track record, most of these apps just show you ads for credit cards or shower you with "special" deals for refinancing your mortgage, car loan, or whatever.
