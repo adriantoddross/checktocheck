@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/adriantoddross/checktocheck.svg?branch=master)](https://travis-ci.org/adriantoddross/checktocheck)
+
 # Check To Check
 [Most Americans live paycheck to paycheck](https://www.cnbc.com/2017/08/24/most-americans-live-paycheck-to-paycheck.html) and struggle to make ends meet. I am developing Check to Check as a personal finance web application that teaches financial literacy, starting with the basics: surviving from paycheck to paycheck. 
 
