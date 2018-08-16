@@ -3,6 +3,9 @@
 # Check To Check
 [Most Americans live paycheck to paycheck](https://www.cnbc.com/2017/08/24/most-americans-live-paycheck-to-paycheck.html) and struggle to make ends meet. I am developing Check to Check as a personal finance web application that teaches financial literacy, starting with the basics: surviving from paycheck to paycheck. 
 
+# Soooo, uh... where's the code?
+This project is still in early development. I'm still planning the API, PostgresQL schemas, and creating front-end wireframes before I begin coding. Since this will be test-driven, I can't just hop right into my text editor and start typing!
+
 ## MVP Goals (version 1)
 - Users can register and log-in (and a demo account!)
 - Users can add their gross income
